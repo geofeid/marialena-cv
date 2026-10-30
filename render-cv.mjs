@@ -25,7 +25,7 @@ export function renderCV(c, {e, pdfName, printView=false}) {
   <aside class="skills" aria-label="Skills and languages">
     <section id="expertise"><h2 class="label">Digital marketing skills</h2><div class="screen-only"><p class="signal-legend signal-key"><span>${signal(1)}Profile</span><span>${signal(2)}Hands-on</span><span>${signal(3)}Lead</span></p>${c.skillGroups.map(x=>`<h3 class="skill-group-title skill-band">${e(x.title)}</h3><ul class="skill-list campaign-skills">${x.items.map(skillRow).join('')}</ul>`).join('')}</div><div class="print-only compact-skills">${c.printSkillGroups.map((x,i)=>`<div><h3 class="skill-group-title">${e(x.title)}${signal(i===2?1:3)}</h3><p>${e(x.text)}</p></div>`).join('')}</div></section>
     <section><h2 class="label">Soft skills</h2><ul class="chips soft-skills screen-only">${c.softSkills.map(y=>`<li>${e(y.name)}</li>`).join('')}</ul><p class="print-only compact-soft-skills">${c.printSoftSkills.map(x=>`<span class="skill-term">${e(x)}</span>`).join(' · ')}</p></section>
-    <section><h2 class="label">Languages</h2><ul class="language-list">${c.languages.map(([a,b])=>`<li><strong>${e(a)}</strong><span>${e(b)}</span></li>`).join('')}</ul></section>
+    <section><h2 class="label">Languages</h2><ul class="language-list">${c.languages.map(([a,b])=>`<li><strong>${e(a)}</strong><span><span class="screen-only">${e(b)}</span><span class="print-only">${e(b.replace(' proficiency',''))}</span></span></li>`).join('')}</ul></section>
   </aside>
   <main class="main" id="main">
     <section class="sec about"><h2>${printView?'Professional Summary':'About'}</h2><div class="screen-only">${c.about.map(x=>`<p>${aboutText(x)}</p>`).join('')}</div><p class="print-only">${aboutText(c.summary)}</p></section>
