@@ -1,0 +1,4 @@
+{
+  "name":"marialena-cv", "version":"1.0.0", "private":true, "type":"module",
+  "scripts":{"build":"node build.mjs", "build:pdf":"node build.mjs --pdf", "check":"node scripts/check-site.mjs", "serve":"node serve.mjs"}
+}

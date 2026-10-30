@@ -1,0 +1,515 @@
+{
+  "name": "Maria–Eleni Konsta",
+  "alias": "Marialena",
+  "role": "Digital Marketing Leader",
+  "tagline": "Digital thinking. Human connection.",
+  "location": "Athens, Greece",
+  "email": "konstamarialena@gmail.com",
+  "phone": "+30 694 722 1934",
+  "linkedin": "https://www.linkedin.com/in/marialenakonsta/",
+  "intro": "I connect performance, brand and commerce to build meaningful digital experiences. From international retail to precision medicine, I bring strategic thinking, hands-on execution and a people-first approach to marketing.",
+  "summary": "Digital Marketing Leader with an MSc in International Marketing and experience across healthcare, retail and e-commerce. Promoted to Head of Digital at GENEKOR in under a year, leading a team across European B2B and B2C markets. Combines performance marketing, clear communication and hands-on delivery.",
+  "about": [
+    "I lead digital marketing across European B2B and B2C markets, combining performance marketing, e-commerce and brand communication. At GENEKOR, I progressed to Head of Digital in under a year, leading a team in healthcare.",
+    "With an MSc in International Marketing and experience at JUMBO and Anubis, I work across Google Ads, Meta advertising, SEO, social media, content strategy and email marketing. I bring customer insight, analytical thinking and cross-functional collaboration to campaign strategy, conversion optimisation and performance reporting."
+  ],
+  "skillGroups": [
+    {
+      "title": "Performance & analytics",
+      "printTitle": "Performance",
+      "items": [
+        {
+          "name": "Performance marketing",
+          "scope": 3
+        },
+        {
+          "name": "Google Ads / paid search",
+          "scope": 2
+        },
+        {
+          "name": "Meta advertising / paid social",
+          "scope": 2
+        },
+        {
+          "name": "Google Analytics",
+          "scope": 2
+        },
+        {
+          "name": "Campaign reporting & KPI analysis",
+          "scope": 2
+        },
+        {
+          "name": "Advertising budget management",
+          "scope": 2
+        },
+        {
+          "name": "Conversion rate optimisation (CRO)",
+          "scope": 2
+        }
+      ]
+    },
+    {
+      "title": "Brand, content & commerce",
+      "printTitle": "Digital channels",
+      "items": [
+        {
+          "name": "Digital marketing strategy",
+          "scope": 3
+        },
+        {
+          "name": "B2B & B2C marketing",
+          "scope": 3
+        },
+        {
+          "name": "E-commerce management",
+          "scope": 2
+        },
+        {
+          "name": "Search engine optimisation (SEO)",
+          "scope": 2
+        },
+        {
+          "name": "Social media strategy",
+          "scope": 2
+        },
+        {
+          "name": "Content strategy & brand communication",
+          "scope": 2
+        },
+        {
+          "name": "Email marketing & newsletters",
+          "scope": 2
+        },
+        {
+          "name": "Community management",
+          "scope": 2
+        },
+        {
+          "name": "Market research & competitor analysis",
+          "scope": 2
+        },
+        {
+          "name": "Trade marketing & event activation",
+          "scope": 2
+        }
+      ]
+    },
+    {
+      "title": "Platforms, tools & AI",
+      "printTitle": "Tools & AI",
+      "items": [
+        {
+          "name": "WordPress",
+          "scope": 2
+        },
+        {
+          "name": "Mailchimp / Moosend / MailPoet",
+          "scope": 2
+        },
+        {
+          "name": "CRM tools",
+          "scope": 1
+        },
+        {
+          "name": "Microsoft Office",
+          "scope": 1
+        },
+        {
+          "name": "Adobe Photoshop",
+          "scope": 1
+        },
+        {
+          "name": "Artificial Intelligence (AI)",
+          "scope": 1
+        },
+        {
+          "name": "Generative AI",
+          "scope": 1
+        },
+        {
+          "name": "Prompt Engineering",
+          "scope": 1
+        }
+      ]
+    }
+  ],
+  "printSkillGroups": [
+    {
+      "title": "Performance",
+      "text": "Google Ads · Meta advertising · Google Analytics · KPI reporting · Budget management · Conversion rate optimisation (CRO)"
+    },
+    {
+      "title": "Strategy & channels",
+      "text": "B2B / B2C · E-commerce · SEO · Social media · Content strategy · Email marketing · Community management · Market research · Trade marketing"
+    },
+    {
+      "title": "Platforms & AI",
+      "text": "WordPress · Mailchimp / Moosend / MailPoet · CRM · MS Office · Photoshop · Artificial Intelligence (AI) · Generative AI · Prompt Engineering"
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Stakeholder communication"
+    },
+    {
+      "name": "Cross-functional collaboration"
+    },
+    {
+      "name": "Cross-cultural communication"
+    },
+    {
+      "name": "Team leadership & coordination"
+    },
+    {
+      "name": "Analytical thinking"
+    },
+    {
+      "name": "Creative problem-solving"
+    },
+    {
+      "name": "Adaptability"
+    },
+    {
+      "name": "Resilience under pressure"
+    },
+    {
+      "name": "Initiative & ownership"
+    },
+    {
+      "name": "Prioritisation & time management"
+    },
+    {
+      "name": "Customer focus & active listening"
+    },
+    {
+      "name": "Attention to detail"
+    },
+    {
+      "name": "Continuous learning"
+    }
+  ],
+  "printSoftSkills": [
+    "Stakeholder communication",
+    "Cross-functional collaboration",
+    "Cross-cultural communication",
+    "Team leadership",
+    "Analytical thinking",
+    "Creative problem-solving",
+    "Adaptability",
+    "Resilience",
+    "Initiative",
+    "Time management",
+    "Customer focus",
+    "Attention to detail",
+    "Continuous learning"
+  ],
+  "strengths": [
+    {
+      "title": "Strategy with sleeves rolled up.",
+      "text": "From the campaign plan to the ad account, I connect the bigger picture with the details that make it work.",
+      "short": "Strategy & execution"
+    },
+    {
+      "title": "A perspective beyond borders.",
+      "text": "Experience across European markets, the Dominican Republic and a New York performance marketing project.",
+      "short": "International perspective"
+    },
+    {
+      "title": "Ideas that become initiatives.",
+      "text": "A proactive approach to new formats, educational content and brand activations, with people at the centre.",
+      "short": "Initiative & leadership"
+    }
+  ],
+  "experience": [
+    {
+      "company": "GENEKOR Medical S.A.",
+      "role": "Head of Digital",
+      "dates": "Jun 2025 — Present",
+      "location": "Athens · European markets",
+      "type": "Current role",
+      "progression": "Joined as International Digital Marketing Coordinator; promoted to Head of Digital in less than a year.",
+      "summary": "Leading digital activity across European B2B and B2C markets, bringing performance, content and team coordination together.",
+      "bullets": [
+        "Promoted from Coordinator to Head of Digital in under a year; lead a team across European B2B and B2C markets.",
+        "Oversee Google Ads, Meta campaigns, SEO, social content and Google Analytics reporting.",
+        "Coordinate regional partners and agencies, aligning local content with business and scientific objectives; contribute to GENEKOR Learns."
+      ],
+      "print": [
+        "Promoted from International Digital Marketing Coordinator to Head of Digital in less than a year; lead a team serving European B2B and B2C markets.",
+        "Oversee Google Ads, Meta, SEO, social content, analytics and partner coordination; contribute to GENEKOR Learns."
+      ]
+    },
+    {
+      "company": "JUMBO S.A.",
+      "role": "Marketing Manager",
+      "dates": "Jan 2024 — Jun 2025",
+      "location": "Athens · Greece, Cyprus, Romania & Bulgaria",
+      "type": "Retail & e-commerce · Social media & analytics",
+      "summary": "Digital marketing in a demanding international retail environment, balancing e-commerce, paid media and seasonal campaign delivery.",
+      "bullets": [
+        "Managed e-commerce, user experience, paid campaigns, budgets and analytics across four markets.",
+        "Coordinated social media and community management for Greece, Cyprus, Romania and Bulgaria, including Facebook, Instagram, YouTube and TikTok.",
+        "Delivered seasonal campaigns and product launches under tight deadlines, using consumer insights to refine activity."
+      ],
+      "print": [
+        "Managed e-commerce, paid media, budgets, analytics and social activity across Greece, Cyprus, Romania and Bulgaria.",
+        "Delivered seasonal retail campaigns under tight deadlines; used consumer insights to refine activity."
+      ]
+    },
+    {
+      "company": "White Space Chelsea",
+      "role": "Digital Performance Specialist",
+      "dates": "Jun 2024 — Nov 2024",
+      "location": "New York, USA · Remote",
+      "type": "Concurrent freelance / contract project",
+      "summary": "An international performance marketing engagement delivered alongside my role at JUMBO.",
+      "bullets": [
+        "Managed Google Ads campaigns and targeting for a New York client, alongside my full-time role at JUMBO.",
+        "Used Google Analytics and user-behaviour analysis to guide conversion optimisation; turned campaign metrics into recommendations for targeting and ad efficiency."
+      ],
+      "print": [
+        "Concurrent contract project: Google Ads, Google Analytics, campaign reporting, targeting and conversion optimisation for a New York client."
+      ]
+    },
+    {
+      "company": "Anubis Publications",
+      "role": "Marketing Assistant",
+      "dates": "Nov 2021 — Apr 2024",
+      "location": "Athens · Hybrid / remote",
+      "type": "Publishing & content",
+      "summary": "A broad marketing remit spanning social strategy, paid media, email, publishing content and B2B events.",
+      "bullets": [
+        "Managed social media, Google Ads and performance reporting with management and PR, aligning campaigns with brand communication.",
+        "Created newsletters through MailPoet, Mailchimp and Moosend; maintained WordPress content and monitored e-shop performance.",
+        "Supported competitor research, B2B events and book exhibitions."
+      ],
+      "print": [
+        "Delivered social strategy, Google Ads, analytics, newsletters and WordPress content; supported B2B events and book exhibitions.",
+        "Continued working Greek hours while based in the Dominican Republic."
+      ]
+    },
+    {
+      "company": "Grupo Sanut",
+      "role": "E-Commerce Analyst",
+      "dates": "Sep 2023 — Dec 2023",
+      "location": "Dominican Republic",
+      "type": "International assignment · concurrent with Anubis",
+      "summary": "Connected sales analysis and e-commerce with hands-on trade marketing and original event activation ideas.",
+      "bullets": [
+        "Analysed store sales and improved product presentation and the e-commerce conversion funnel, including accurate catalogue uploads.",
+        "Coordinated store and trade marketing teams, combining branding with sales insights to support marketing strategy.",
+        "Initiated kiosk-based event activations to engage customers in the Dominican Republic."
+      ],
+      "print": [
+        "Analysed store sales, optimised e-commerce and coordinated trade marketing teams; initiated kiosk-based event activations. Concurrent with Anubis."
+      ]
+    }
+  ],
+  "earlier": [
+    {
+      "company": "H&M Group",
+      "role": "Sales Advisor",
+      "dates": "Mar 2019 — May 2021",
+      "location": "London, UK"
+    },
+    {
+      "company": "Mellon Group of Companies",
+      "role": "Banking Agent · Call Centre",
+      "dates": "Oct 2017 — Dec 2017",
+      "location": "Greece"
+    },
+    {
+      "company": "Accounting Office",
+      "role": "Secretary · Part-time",
+      "dates": "Apr 2016 — Dec 2016",
+      "location": "Athens, Greece"
+    },
+    {
+      "company": "National Bank of Greece",
+      "role": "Customer Service Intern",
+      "dates": "Oct 2015 — Apr 2016",
+      "location": "Athens, Greece"
+    },
+    {
+      "company": "Avon",
+      "role": "Sales Representative",
+      "dates": "Jan 2014 — Dec 2015",
+      "location": "Athens, Greece"
+    }
+  ],
+  "initiatives": [
+    {
+      "label": "Leadership · GENEKOR",
+      "title": "From coordination to leadership.",
+      "text": "Progressed into a Head of Digital role in less than a year, with a team and a remit spanning European B2B and B2C markets."
+    },
+    {
+      "label": "Initiative · Grupo Sanut",
+      "title": "Taking the brand into the real world.",
+      "text": "Proposed kiosk-based event activations in the Dominican Republic, connecting commercial insight with a new customer-facing format."
+    },
+    {
+      "label": "Performance · White Space Chelsea",
+      "title": "An international brief, delivered remotely.",
+      "text": "Managed a New York performance marketing project alongside a full-time retail role, covering Google Ads, analytics and conversion optimisation."
+    }
+  ],
+  "expertise": [
+    {
+      "title": "Performance & insight",
+      "items": [
+        "Google Ads",
+        "Meta advertising",
+        "Google Analytics",
+        "Campaign reporting",
+        "Budget management",
+        "Conversion optimisation"
+      ]
+    },
+    {
+      "title": "Brand & digital experience",
+      "items": [
+        "E-commerce",
+        "SEO",
+        "Social media strategy",
+        "Content marketing",
+        "Email marketing",
+        "WordPress"
+      ]
+    },
+    {
+      "title": "People & delivery",
+      "items": [
+        "Team leadership",
+        "International coordination",
+        "B2B & B2C strategy",
+        "Trade marketing",
+        "Event activation",
+        "Market research"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc International Marketing",
+      "school": "Newcastle University Business School",
+      "dates": "Sep 2017 — Dec 2018",
+      "printDates": "2017 — 2018",
+      "location": "United Kingdom",
+      "note": "Master’s thesis: qualitative research into how millennials interact with sponsored video advertising and how it relates to purchasing behaviour on social media."
+    },
+    {
+      "degree": "BSc Accounting & Finance",
+      "school": "Technological Educational Institute of Epirus",
+      "dates": "Oct 2012 — Jun 2016",
+      "printDates": "2012 — 2016",
+      "location": "Greece",
+      "note": "Bachelor’s thesis: research into cryptocurrencies as digital currency, with a study of Bitcoin.",
+      "achievement": "Second award in Innovation & Entrepreneurship at TEI of Epirus for an application for individual maintenance control."
+    }
+  ],
+  "projects": [
+    {
+      "context": "GENEKOR",
+      "title": "GENEKOR Learns",
+      "text": "Contributed to GENEKOR Learns alongside a broader digital marketing remit in medical diagnostics. The initiative reflects a proactive approach to content and communication in a sector where business and scientific objectives need to stay aligned."
+    },
+    {
+      "context": "Grupo Sanut",
+      "title": "Kiosk-based event activations",
+      "text": "Proposed the kiosk activation concept while working in the Dominican Republic. The initiative connected trade marketing and customer engagement, complementing work on e-commerce, sales analysis and coordination of store teams."
+    },
+    {
+      "context": "White Space Chelsea",
+      "title": "Remote performance marketing · New York",
+      "text": "Delivered an international contract project alongside a full-time role at JUMBO. The work combined Google Ads campaign management, Google Analytics, reporting and conversion optimisation, with recommendations grounded in campaign and user-behaviour data."
+    }
+  ],
+  "courses": [
+    {
+      "category": "AI & marketing",
+      "title": "AI Marketing Bootcamp",
+      "provider": "Public",
+      "status": "In progress",
+      "date": null,
+      "description": "Professional development in AI marketing. Listed as ongoing in the supplied CV."
+    },
+    {
+      "category": "250 hours",
+      "title": "AI & Digital Marketing",
+      "provider": "University of Patras",
+      "date": null,
+      "description": "Certified training connecting artificial intelligence and digital marketing."
+    },
+    {
+      "category": "Digital marketing",
+      "title": "Digital Marketing Pro",
+      "provider": null,
+      "date": null,
+      "description": null
+    },
+    {
+      "category": "Paid media",
+      "title": "Google Ads",
+      "provider": "Google",
+      "date": null,
+      "description": null
+    },
+    {
+      "category": "Analytics",
+      "title": "Google Analytics · Beginner & Advanced",
+      "provider": "Google",
+      "date": null,
+      "description": null
+    },
+    {
+      "category": "Online marketing",
+      "title": "Google Digital Garage",
+      "provider": "Google",
+      "date": null,
+      "description": "Online Marketing certification."
+    },
+    {
+      "category": "Content & channels",
+      "title": "SEO, Social Media, Content & Email Marketing",
+      "provider": "LinkedIn Learning",
+      "date": null,
+      "description": "SEO Foundations; Social Media Marketing: Strategy and Optimization; Content Marketing; Email Marketing."
+    },
+    {
+      "category": "Design & creative",
+      "title": "Photoshop & Graphic Design",
+      "provider": "LinkedIn Learning",
+      "date": null,
+      "description": "Photoshop CC 2018 Essential Training: The Basics; Graphic Design."
+    }
+  ],
+  "certifications": [
+    "Digital Marketing Pro",
+    "AI & Digital Marketing · University of Patras (250 hours)",
+    "Google Ads · Google",
+    "Google Analytics · Beginner & Advanced",
+    "Google Digital Garage · Online Marketing",
+    "Photoshop CC 2018 · LinkedIn",
+    "Graphic Design, Email Marketing, SEO Foundations, Content Marketing & Social Media · LinkedIn Learning"
+  ],
+  "ongoing": "AI Marketing Bootcamp · Public · In progress (as listed in the supplied CV)",
+  "languages": [
+    [
+      "Greek",
+      "Native"
+    ],
+    [
+      "English",
+      "Professional working proficiency"
+    ],
+    [
+      "Spanish",
+      "Professional working proficiency"
+    ],
+    [
+      "Chinese",
+      "Beginner"
+    ]
+  ]
+}
